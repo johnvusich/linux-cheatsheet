@@ -36,6 +36,7 @@ This markdown document is adapted from [guru99's Linux Commands Cheat Sheet](htt
 | `rmdir`           | Removes an empty directory             |
 | `touch file_name` | Creates a new file                     |
 | `cat file_name`   | Displays the content of a file         |
+| `Ctrl + L`        | Alternative to typing "clear + ENTER"  |
 | `Ctrl + A`        | Jump to the beginning of a line        |
 | `Ctrl + E`        | Jump to the end of a line              |
 | `Option + F`      | Jump to the next word                  |
