@@ -178,3 +178,8 @@ This markdown document is adapted from [guru99's Linux Commands Cheat Sheet](htt
 
 ---
 
+## Other Useful Commands
+
+### To remove quotation marks from a .csv file:
+
+sed -i 's/"//g' /path/to/file.csv
