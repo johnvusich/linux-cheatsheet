@@ -36,7 +36,12 @@ This markdown document is adapted from [guru99's Linux Commands Cheat Sheet](htt
 | `rmdir`           | Removes an empty directory             |
 | `touch file_name` | Creates a new file                     |
 | `cat file_name`   | Displays the content of a file         |
-| `Ctrl + L`        | Alternative to typing "clear + ENTER"  |
+| `Ctrl + L`        | Clear the screen, same as clear cmd    |
+| `Ctrl + U`        | Erase the complete line                |
+| `Ctrl + K`        | Erase part of the line after the cursor|
+| `Ctrl + W`        | Erase the word before the cursor       |
+| `Ctrl + D`        | On an empty line, close the terminal   |
+| `Ctrl + D`        | Delete the character at the cursor     |
 | `Ctrl + A`        | Jump to the beginning of a line        |
 | `Ctrl + E`        | Jump to the end of a line              |
 | `Option + F`      | Jump to the next word                  |
